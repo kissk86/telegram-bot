@@ -1,4 +1,5 @@
 # Powershell telegram bot beta, v2020-05-15
+# Powershell 6.1 | https://github.com/PowerShell/powershell/releases
 # Telegram bot | https://core.telegram.org/bots
 # Poshgram | https://github.com/techthoughts2/PoshGram
 
